@@ -1,0 +1,128 @@
+회원 로그인 화면
+System.out.println("1.로그인");
+System.out.println("2.뒤로 가기");
+System.out.println("번호(숫자)를 입력해주세요");
+System.out.println("아이디");
+System.out.println("비밀번호");
+System.out.println("%s님 반갑습니다.");
+System.out.println("아이디와 비밀번호를 다시 확인해주세요.");
+System.out.println("===========================");
+
+회원 선택화면
+System.out.println("===========추천시설==========");
+System.out.println("스포츠 마사지");
+System.out.println("노래방");
+System.out.println("피시방");
+System.out.println("식당추천메뉴");
+System.out.println("헬스장");
+System.out.println("1.목욕");
+System.out.println("2.목욕 + 찜질");
+System.out.println("3.회원정보수정");
+System.out.println("4.뒤로가기");
+System.out.println("번호(숫자)를 입력해주세요");
+
+회원 목욕 선택시                                     //회원 목욕,찜질의 경우 1,2 선택시 번호부여, 
+System.out.println("오늘의 스페셜탕 : 아로마탕");
+System.out.println("가족탕");
+System.out.println("노천온천");
+System.out.println("녹차탕");
+System.out.println("냉탕");
+System.out.println("1. 발권하기");
+System.out.println("2. 뒤로가기");
+
+회원-목욕-발권하기 선택시   
+System.out.println("1.소인(남)-만 7세 이하 : 5000원");
+System.out.println("2.소인(여)-만 7세 이하 : 5000원");
+System.out.println("3.대인(남) : 10000원");
+System.out.println("4.대인(여) : 10000원");
+System.out.println("5.뒤로가기");
+System.out.println("번호(숫자)를 입력해주세요.");
+
+발급후 입장권 정보 출력
+System.out.println("%s 을(를) 선택하셨습니다.");
+System.out.println("사용한 마일리지 :");
+System.out.println("남은 마일리지  :");
+System.out.println("선택 요금 :");
+System.out.println("최종 요금 :");
+System.out.println("라커번호 : ");
+System.out.println("비밀번호 : ");
+
+회원-목욕-찜질 선택시
+System.out.println("찜질 1  ");
+System.out.println("찜질 2  ");
+System.out.println("1.발권하기");
+System.out.println("2.뒤로가기");
+
+회원-목욕-찜질-발권하기 선택시
+System.out.println("1.소인(남) - 만 7세 이하 7000");
+System.out.println("2.소인(여) - 만 7세 이하 7000");
+System.out.println("3.대인(남) - 12000");
+System.out.println("4.대인(남) - 12000");
+System.out.println("5.뒤로가기");
+
+회원-목욕-찜질- 발급후 입장권 정보 출력
+System.out.println("%s 을(를) 선택하셨습니다.");
+System.out.println("사용한 마일리지 :");
+System.out.println("남은 마일리지  :");
+System.out.println("선택 요금 :");
+System.out.println("최종 요금 :");
+System.out.println("라커번호 : ");
+System.out.println("비밀번호 : ");
+
+회원 정보 수정
+System.out.println("1.회원정보 조회 및 수정");
+System.out.println("2.회원탈퇴");
+System.out.println("3.뒤로가기");
+
+회원 정보 수정 - 조회 및 수정
+System.out.println("이름 : ");
+System.out.println("나이 : ");
+System.out.println("성별 : ");
+System.out.println("주소 : ");
+System.out.println("전화번호 : ");
+System.out.println("등록일: ");
+System.out.println("마일리지 : ");
+System.out.println("1.수정하기");
+System.out.println("2.뒤로가기");
+
+회원 정보 수정 - 조회 및 수정 - 수정하기
+System.out.println("이름 : ");
+System.out.println("나이 : ");
+System.out.println("성별 : ");
+System.out.println("주소 : ");
+System.out.println("전화번호 : ");
+System.out.println("등록일: ");
+System.out.println("마일리지 : ");
+System.out.println("1.수정하기");
+System.out.println("2.뒤로가기");
+System.out.println("수정하시겠습니까(Y/N)");
+
+회원 정보 수정 - 조회 및 수정 - 수정하기 후
+System.out.println("이름 : ");
+System.out.println("나이 : ");
+System.out.println("성별 : ");
+System.out.println("주소 : ");
+System.out.println("전화번호 : ");
+System.out.println("등록일: ");
+System.out.println("마일리지 : ");
+System.out.println("1. 수정완료");
+System.out.println("2. 재입력");
+
+회원정보 수정 - 회원 탈퇴
+System.out.println("현재 고객님이 보유하신 마일리지는 5,500원입니다.");
+System.out.println("정말로 탈퇴하시겠습니까?(Y/N)");
+
+회원정보 수정 - 회원 탈퇴 - Y선택시
+System.out.println("회원탈퇴가 완료되었습니다.");
+
+
+
+
+
+
+
+
+
+
+
+
